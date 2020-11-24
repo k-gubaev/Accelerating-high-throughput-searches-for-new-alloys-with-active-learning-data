@@ -1,5 +1,5 @@
 # machine-learning-alloys-search
-Data fore the article: "Accelerating high-throughput searches for new alloys with active learning of interatomic potentials" by K.Gubaev et. al
+Data from the article: "Accelerating high-throughput searches for new alloys with active learning of interatomic potentials" by K.Gubaev et. al
 
 Contains training sets and equilibrated structures for CuPd, CoNbV and AlNiTi alloys.
 
